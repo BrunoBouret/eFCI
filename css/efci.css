@@ -1,0 +1,37 @@
+/* Feuille de styles pour e.fci.free.fr */
+/* Date : 15 02 2009 */
+/* Auteur : Yu E */
+/* Copyright : FCI */
+
+body.accueil {
+font-family : 'Arial Rounded MT Bold', 'Comic Sans MS', 'Times New Roman',Times,serif
+}
+
+h1.accueil {
+background-color : lightgrey;
+border-style : solid;
+border-color : red;
+text-align : center;
+color : black;
+font-size : 30pt;
+}
+
+div.texte p {
+font-size : 14pt;
+}
+
+section#une {
+width : 700px;
+position : absolute;
+top:200px;
+right:40px;
+border : black solid 2px;
+border-radius : 10px;
+padding : 6px;
+}
+
+section#une img {
+display : block;
+margin-left : auto;
+margin-right : auto;
+}
